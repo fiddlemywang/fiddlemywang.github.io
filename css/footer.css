@@ -1,0 +1,83 @@
+/*----footer--------*/
+
+/* footer social icons */
+ul.footer-network {
+  list-style: none;
+  display: inline;
+  margin-left:0 !important;
+  padding: 0;
+}
+ul.footer-network li {
+  display: inline;
+  margin: 0 5px;
+}
+
+
+/* footer social icons */
+.footer-network a.icoRss:hover {
+  background-color: #F56505;
+}
+.footer-network a.icoFacebook:hover {
+  background-color:#3B5998;
+}
+.footer-network a.icoTwitter:hover {
+  background-color:#33ccff;
+}
+.footer-network a.icoGoogle:hover {
+  background-color:#BD3518;
+}
+.footer-network a.icoVimeo:hover {
+  background-color:#0590B8;
+}
+.footer-network a.icoLinkedin:hover {
+  background-color:#007bb7;
+}
+.footer-network a.icoRss:hover i, .footer-network a.icoFacebook:hover i, .footer-network a.icoTwitter:hover i,
+.footer-network a.icoGoogle:hover i, .footer-network a.icoVimeo:hover i, .footer-network a.icoLinkedin:hover i {
+  color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+  color:#44BCDD;
+}
+
+.footer-circle li a {
+  display:inline-block;
+  position:relative;
+  margin:0 auto 0 auto;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  border-radius:50%;
+  text-align:center;
+  width: 50px;
+  height: 50px;
+  font-size:20px;
+}
+.footer-circle li i {
+  margin:0;
+  line-height:50px;
+  text-align: center;
+}
+
+.footer-circle li a:hover i, .triggeredHover {
+  -moz-transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  -ms--transform: rotate(360deg);
+  transform: rotate(360deg);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  transition: all 0.2s;
+}
+.footer-circle i {
+  color: #fff;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+a {
+ background-color: #D3D3D3;   
+}
