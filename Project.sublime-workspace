@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Man",
+				"manager"
+			],
+			[
+				"wale",
+				"wales"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 420,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Danny/Documents/GitHub/dobby/plugins/test.js",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2451,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "links.html",
+			"settings":
+			{
+				"buffer_size": 2314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fiddlers.html",
+			"settings":
+			{
+				"buffer_size": 7429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "404.html",
+			"settings":
+			{
+				"buffer_size": 1575,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 5261,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style.css",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/footer.css",
+		"/C/Users/Danny/Desktop/html template.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/README.md",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/stylesheet.css",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/stylesheet",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/fiddlers.html",
+		"/Y/Users/Danny/Downloads/meet-the-team/css/style.css",
+		"/Y/Users/Danny/Downloads/meet-the-team/index.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/links.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/jumbotron-narrow.css",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/test.html",
+		"/C/Users/Danny/Desktop/bootstrap-3.3.6-dist/index.html",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/css/style.css",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/index.html",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/CNAME",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/zh14b4ci.q4x.txt",
+		"/C/Users/Danny/Desktop/q 4 jen.txt",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/votetom.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/uid",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/cid.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/config.toml",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/time.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/lol.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/votetom",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/img.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/drawstraws.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/package.json",
+		"/C/Users/Danny/Documents/GitHub/dobby/config.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test2",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/bot.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/npm-debug.log",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/ud.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/syncplay.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/admin.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/bagpuss.js",
+		"/Y/Program Files (x86)/Steam/steamapps/common/Unturned/Servers/My server/Server/Adminlist.dat",
+		"/Y/Program Files (x86)/Steam/steamapps/common/Unturned/Servers/My server/Server/Blacklist.dat",
+		"/Y/Program Files (x86)/Steam/steamapps/common/Unturned/Servers/My server/Server/Commands.dat",
+		"/Y/Program Files (x86)/Steam/steamapps/common/Unturned/Servers/My server/Server/Whitelist.dat",
+		"/Y/Users/Danny/Downloads/Server/Run_DS.bat",
+		"/Y/Users/Danny/Downloads/armitage150813/readme.txt",
+		"/Y/Users/Danny/Downloads/25487.txt",
+		"/Y/Users/Danny/Downloads/Imagineer Systems Mocha Pro 3.1.1 (64 bit) [ChingLiu]/crack/Linezer0.nfo",
+		"/Y/Users/Danny/Downloads/Imagineer Systems Mocha Pro 3.1.1 (64 bit) [ChingLiu]/howto.txt",
+		"/C/Users/Danny/Documents/BnS/NCWEST/ClientConfiguration.xml",
+		"/Y/Users/Danny/Downloads/ALC Dumpx/ALC Dump/Text her - 603 660 8473.txt",
+		"/Y/Users/Danny/Downloads/ALC Dumpx/ALC Dump/About Lexi.txt",
+		"/Y/Users/Danny/Downloads/ALC Dumpx/ALC Dump/doxinfo.txt",
+		"/Y/Users/Danny/Downloads/ALC Dumpx/ALC Dump/evil.txt",
+		"/Y/Users/Danny/Downloads/Oxide-Rust/_start-example.bat",
+		"/Y/Users/Danny/Downloads/Server/rustds/RustDedicated.exe",
+		"/C/Users/Danny/Documents/GitHub/spyfall/spyfall/lib/locations.js",
+		"/C/Users/Danny/Documents/GitHub/spyfall/spyfall/settings/example.json",
+		"/Y/Users/Danny/Downloads/spyfall-master/spyfall/lib/locations.js",
+		"/Y/Users/Danny/Downloads/spyfall-master/spyfall/server/main.js",
+		"/Y/Users/Danny/Downloads/spyfall-master/spyfall/settings/example.json",
+		"/Y/Users/Danny/Downloads/spyfall-master/spyfall/client/main.js",
+		"/Y/Users/Danny/Downloads/Adventures/Scales of War Adventure Path/RPOL Maps/Group A Map.txt",
+		"/Y/Users/Danny/Downloads/Server/Rustide/README.txt",
+		"/Y/Users/Danny/Downloads/user.ini",
+		"/Y/Users/Danny/Downloads/Server/update_script.txt",
+		"/Y/Users/Danny/Downloads/Server/readme.txt",
+		"//DANNYTALORSIMAC/Danny/a.txt",
+		"/Y/Users/Danny/Downloads/logs/latest.log",
+		"/C/Users/Danny/Documents/Servers/ems server/server.properties",
+		"/C/Users/Danny/Documents/Servers/ems server/eula.txt",
+		"/C/Users/Danny/AppData/Local/Temp/Temp1_msvcr70.zip/readme.txt",
+		"/C/Users/Danny/Desktop/new Server/server.properties",
+		"/C/Users/Danny/Desktop/New folder (3)/server.properties",
+		"/C/Users/Danny/Desktop/New folder (3)/eula.txt",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/contrib/test2",
+		"/C/Users/Danny/Documents/my games/Fallout4/Fallout4.ini",
+		"/C/Users/Danny/Documents/my games/Fallout4/Fallout4Prefs.ini",
+		"/Y/Users/Danny/Downloads/Fallout.4-CODEX/codex.nfo",
+		"/Y/Users/Danny/Downloads/Fallout.4-CODEX/RARBG.com.txt",
+		"/C/Users/Danny/Documents/GitHub/dobby/start.bat",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/dataporn.js",
+		"/Y/Users/Danny/Downloads/Adobe After Effects CC 2014 (64 bit) (Crack VR) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/Y/Users/Danny/Downloads/Adobe Photoshop CC 2015 (20150529.r.88) (32+64Bit) + Crack/ReadMe.txt",
+		"/Y/Users/Danny/Downloads/Adobe Muse CC 2015 v2015.0.0.597 (64-Bit) + Crack/ReadMe.txt",
+		"/Y/Users/Danny/Downloads/Adobe Media Encoder CC 2014 v8.0.1 (x64-Patch) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/Y/Users/Danny/Downloads/Avid Media Composer 8.0.0 (Win 64) (patch V.R) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/Y/Users/Danny/Downloads/Adobe Premiere Pro CC 2015 v9.0 + Crack/ReadMe.txt",
+		"/C/Users/Danny/Documents/mambo-master/settings.json",
+		"/Y/Users/Danny/Downloads/mambo-master/mambo-master/settings.json.sample",
+		"/C/Users/Danny/AppData/Local/Temp/Temp1_NOOBS_v1_4_2.zip/INSTRUCTIONS-README.txt",
+		"/C/Program Files (x86)/Livestreamer/Twitch.bat",
+		"/C/Program Files (x86)/Livestreamer/youtube.bat",
+		"/C/Users/Danny/Desktop/test.bat",
+		"/C/Users/Danny/Desktop/videolan.strm",
+		"/C/Users/Danny/AppData/Local/Temp/Temp1_VBCABLE_Driver_Pack43.zip/readme.txt",
+		"/Y/Users/Danny/Downloads/New folder (2)/README.txt",
+		"/C/Users/Danny/AppData/Local/Temp/Temp1_clrbrowser4_repack.zip/clrbrowser4_repack/README.txt",
+		"/C/Users/Danny/Documents/TeeBoard/widgets/README.txt",
+		"/Y/Users/Danny/Downloads/readme.txt",
+		"/C/xampp/htdocs/r63/figurepartconfig/index.php",
+		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/Torrent downloaded from Hollytorrents.com.txt",
+		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/Torrent downloaded from AhaShare.com.txt",
+		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/1/Torrent downloaded from AhaShare.com.txt",
+		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/1/[ALL CRACKS]/Cracked amlib/How to use.txt",
+		"/C/Users/Danny/Desktop/hosts",
+		"/C/Users/Danny/Desktop/p.txt",
+		"/C/Users/Danny/Documents/5.txt",
+		"/Y/Users/Danny/Downloads/Microsoft Windows 10 Home and Pro x64 Clean ISO/Support Us.txt",
+		"/Y/Users/Danny/Downloads/Microsoft Windows 10 Home and Pro x64 Clean ISO/ReadMe.txt",
+		"/Y/Users/Danny/Downloads/Adobe Photoshop Lightroom CC 2015 6.1 + Crack/ReadMe.txt",
+		"/C/Users/Danny/AppData/Local/Temp/Temp1_20bb31-PoliceMod 1.0c Rev6 New.zip/readme.txt",
+		"//DANNYTALORSIMAC/Danny/Downloads/quote/read me.txt",
+		"/C/Users/Danny/Desktop/bigxsbys weird 5shitM01.xml",
+		"/C/Users/Danny/Desktop/1",
+		"/Y/Users/Danny/Downloads/wineglas.vt",
+		"/Y/Users/Danny/Downloads/12budord.txt",
+		"/Y/Users/Danny/Downloads/13.asc",
+		"/Y/Users/Danny/Downloads/eagle.art",
+		"/C/Users/Danny/Desktop/bigxsbys weird shit.mxfM01.xml",
+		"/Y/Users/Danny/Downloads/NOOBS_v1_4_1/INSTRUCTIONS-README.txt",
+		"/C/Users/Danny/Documents/GitHub/mambo/settings.json.sample",
+		"/C/Program Files/TeamSpeak 3 Client/plugins/lua_plugin/masscontrol.lua",
+		"/Y/Users/Danny/Downloads/jessie.art",
+		"/C/Users/Danny/Documents/GitHub/GitTest/README.md",
+		"/C/Users/Danny/Documents/GitHub/GitTest/index.html",
+		"/C/Users/Danny/Documents/GitHub/GitTest/miqajqfi.4ce.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".social-",
+			"clear",
+			"	",
+			"		<link href = \"css/bootstrap.min.css\" rel = \"stylesheet\">",
+			"embassy",
+			"world war ii",
+			"stunstick",
+			"hitman",
+			"cook",
+			"chef",
+			"food",
+			"f",
+			"fppd",
+			"84.92.50.214",
+			"25.8.225.203",
+			"142.4.206.195",
+			"Tweet",
+			"Twitter",
+			"6"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".footer-",
+			"",
+			"    ",
+			"120.0.0.1",
+			"84.92.50.214",
+			"say",
+			"Donson Co Team Speak",
+			"7"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Danny/Documents/GitHub/dobby/plugins/test.js",
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2135,
+								2135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "links.html",
+					"settings":
+					{
+						"buffer_size": 2314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2029,
+								2029
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "fiddlers.html",
+					"settings":
+					{
+						"buffer_size": 7429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5637,
+								5637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "404.html",
+					"settings":
+					{
+						"buffer_size": 1575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1415,
+								1415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 5261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5261,
+								5261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2355.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
