@@ -16,42 +16,21 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 420,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Danny/Documents/GitHub/dobby/plugins/test.js",
-			"settings":
-			{
-				"buffer_size": 224,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
-			"settings":
-			{
-				"buffer_size": 470,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2451,
+				"buffer_size": 2441,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n     <link rel=\"icon\" href=\"\">\n    <title>Fiddlers</title>\n    <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n    <link href=\"jumbotron-narrow.css\" rel=\"stylesheet\">\n    <link href=\"css/style.css\" rel=\"stylesheet\">\n\n</head>\n\n  <body>\n  	    <div class=\"container\">\n\n  <div class=\"container\">\n      <div class=\"header clearfix\">\n        <nav>\n          <ul class=\"nav nav-pills pull-right\">\n            <li role=\"presentation\"><a href=\"index\">Home</a></li>\n            <li role=\"presentation\" class=\"active\"><a href=\"links\">Follow Us</a></li>\n            <li role=\"presentation\"><a href=\"fiddlers\">Fiddlers</a></li>            \n          </ul>\n        </nav>\n        <h3 class=\"text-muted\">Fiddle My Wang</h3>\n        </div>\n     </div>\n\n<br>\n\n<div class=\"container\">\n  <div class=\"row\">\n    <div>\n    <p>Yar har har! Whilst ye be plunderin' this exquisite treasure chest of a site ye have discovered the booty of social media links, ye might as well grab the booty whilst ye can and nobody be watchin'!</p\n      <div>\n        <ul class=\"social\">\n          <li class=\"twitch\"><a target=\"_blank\" href=\"https://www.twitch.tv/fiddlemywang\"><i class=\"fa fa-twitch fa-3x\"></i></a></li>\n          <li class=\"twitter\"><a target=\"_blank\" href=\"https://twitter.com/FiddleMyWang\"><i class=\"fa fa-twitter fa-3x\"></i></a></li>\n          <li class=\"youtube\"><a target=\"_blank\" href=\"https://www.youtube.com/channel/UCHvzrKr9m76ATwPbPil8rZQ\"><i class=\"fa fa-youtube-play fa-3x\"></i></a></li>\n          <li class=\"steam\"><a target=\"_blank\" href=\"http://steamcommunity.com/groups/FiddleMyWang\"><i class=\"fa fa-steam fa-3x\"></i></a></li>\n        </ul>\n      </div>\n    </div>\n  </div>\n  <br>\n    <div class=\"col-lg-1 col-offset-6 centered\">\n     <img src=\"img/fiddlers.jpg\" class=\"img-fluid\" alt=\"Responsive image\">\n    </div>\n<div class = \"navbar navbar-fixed-bottom\"><div><p class = \"navbar-text\">&copy; 2016 FiddleMyWang, Inc.</p></div>   \n  </div>\n    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"></script>\n    <script src=\"js/bootstrap.min.js\"></script>\n  </body>\n</html>",
 			"file": "links.html",
+			"file_size": 2369,
+			"file_write_time": 131041256153570553,
 			"settings":
 			{
-				"buffer_size": 2314,
+				"buffer_size": 2299,
 				"line_ending": "Windows"
 			}
 		},
@@ -59,7 +38,18 @@
 			"file": "fiddlers.html",
 			"settings":
 			{
-				"buffer_size": 7429,
+				"buffer_size": 10158,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n# Please enter the commit message for your changes. Lines starting\n# with '#' will be ignored, and an empty message aborts the commit.\n# On branch master\n# Your branch is up-to-date with 'origin/master'.\n#\n# Changes to be committed:\n#	modified:   404.html\n#	new file:   Project.sublime-project\n#	new file:   Project.sublime-workspace\n#	modified:   README.md\n#	new file:   fiddler template.html\n#	modified:   fiddlers.html\n#	new file:   img/alex.jpg\n#	new file:   img/badger.jpg\n#	modified:   index.html\n#	modified:   links.html\n#\n\n",
+			"file": "lbynop4i.cg2.txt",
+			"file_size": 554,
+			"file_write_time": 131041639613797048,
+			"settings":
+			{
+				"buffer_size": 532,
 				"line_ending": "Windows"
 			}
 		},
@@ -76,6 +66,14 @@
 			"settings":
 			{
 				"buffer_size": 5261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fiddler template.html",
+			"settings":
+			{
+				"buffer_size": 1158,
 				"line_ending": "Windows"
 			}
 		}
@@ -104,10 +102,12 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/README.md",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
+		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test.js",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style.css",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/footer.css",
 		"/C/Users/Danny/Desktop/html template.html",
-		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/README.md",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/stylesheet.css",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/stylesheet",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style",
@@ -127,7 +127,6 @@
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/uid",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/cid.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/config.toml",
-		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/time.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/lol.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/votetom",
@@ -136,7 +135,6 @@
 		"/C/Users/Danny/Documents/GitHub/dobby/package.json",
 		"/C/Users/Danny/Documents/GitHub/dobby/config.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test2",
-		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/bot.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/npm-debug.log",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins.js",
@@ -293,103 +291,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 420,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								420,
-								420
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Danny/Documents/GitHub/dobby/plugins/test.js",
-					"settings":
-					{
-						"buffer_size": 224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
-					"settings":
-					{
-						"buffer_size": 470,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 2451,
+						"buffer_size": 2441,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2135,
-								2135
+								872,
+								872
 							]
 						],
 						"settings":
@@ -405,19 +323,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 1,
 					"file": "links.html",
 					"settings":
 					{
-						"buffer_size": 2314,
+						"buffer_size": 2299,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2029,
-								2029
+								801,
+								801
 							]
 						],
 						"settings":
@@ -433,19 +351,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 2,
 					"file": "fiddlers.html",
 					"settings":
 					{
-						"buffer_size": 7429,
+						"buffer_size": 10158,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5637,
-								5637
+								801,
+								801
 							]
 						],
 						"settings":
@@ -455,13 +373,39 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 240.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 3,
+					"file": "lbynop4i.cg2.txt",
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "404.html",
 					"settings":
 					{
@@ -489,7 +433,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 5,
 					"file": "css/style.css",
 					"settings":
 					{
@@ -512,6 +456,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 2355.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "fiddler template.html",
+					"settings":
+					{
+						"buffer_size": 1158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1158,
+								1158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
