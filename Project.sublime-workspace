@@ -32,6 +32,38 @@
 			}
 		},
 		{
+			"file": "/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/_ReadMe.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/File download from  www.TechTools.NET.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Y/Users/Danny/Downloads/keyserver2.pgp.comGlobalDirectoryKey.asc",
+			"settings":
+			{
+				"buffer_size": 7440,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Y/Users/Danny/Downloads/Danny_Taylor_pub.asc",
+			"settings":
+			{
+				"buffer_size": 3141,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "fiddlers.html",
 			"settings":
 			{
@@ -277,7 +309,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -338,6 +370,110 @@
 				},
 				{
 					"buffer": 2,
+					"file": "/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/_ReadMe.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/File download from  www.TechTools.NET.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Y/Users/Danny/Downloads/keyserver2.pgp.comGlobalDirectoryKey.asc",
+					"settings":
+					{
+						"buffer_size": 7440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1597.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Y/Users/Danny/Downloads/Danny_Taylor_pub.asc",
+					"settings":
+					{
+						"buffer_size": 3141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3139,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "fiddlers.html",
 					"settings":
 					{
@@ -365,7 +501,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 7,
 					"file": "404.html",
 					"settings":
 					{
@@ -393,7 +529,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 8,
 					"file": "css/style.css",
 					"settings":
 					{
@@ -421,7 +557,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 9,
 					"file": "fiddler template.html",
 					"settings":
 					{
