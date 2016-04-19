@@ -16,83 +16,46 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/Y/Users/Danny/Downloads/key0xD72B85D98D316ACE.asc",
 			"settings":
 			{
-				"buffer_size": 2464,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "links.html",
-			"settings":
-			{
-				"buffer_size": 2318,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/_ReadMe.txt",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/File download from  www.TechTools.NET.txt",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Y/Users/Danny/Downloads/keyserver2.pgp.comGlobalDirectoryKey.asc",
-			"settings":
-			{
-				"buffer_size": 7440,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Y/Users/Danny/Downloads/Danny_Taylor_pub.asc",
-			"settings":
-			{
-				"buffer_size": 3141,
+				"buffer_size": 6253,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "fiddlers.html",
+			"file": "/C/Users/Danny/Desktop/1E6BF1B82B9E08C1D354D0114F30148F39312184.asc",
 			"settings":
 			{
-				"buffer_size": 14229,
+				"buffer_size": 3872,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "404.html",
+			"file": "/C/Users/Danny/Desktop/jobs.txt",
 			"settings":
 			{
-				"buffer_size": 1589,
+				"buffer_size": 3632,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "css/style.css",
+			"file": "/C/Users/Danny/Documents/5.txt",
 			"settings":
 			{
-				"buffer_size": 5261,
+				"buffer_size": 347,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "fiddler template.html",
+			"contents": "https://www.dropbox.com/sh/a74fbhu9e136t5a/AABbq_OrJOyi0G-oZ5LAK8JWa?dl=0   ===\n\n\nhttps://drive.google.com/folderview?id=0B3_gZZ4MXpk2WEJSMlZCQmY3WG8     ====\n\n\n\n\nhttps://www.dropbox.com/s/tsyko6v0v28kgoq/f76a1e72-6368-44ff-983a-21f84a1cb360.mp4?dl=0    ====\n\nhttps://www.dropbox.com/s/fr9osd49nf4jt9b/de2d514a-920e-477e-9f8e-63edb6293ff8.mp4?dl=0    ==== \n\n\nhttps://www.dropbox.com/s/o9mw0l6607lgcwa/11433410-2714-4f50-b1b9-47bed3288513.mp4?dl=0    ==\n\n\nhttps://www.dropbox.com/s/gxwjdwbkka741m5/760847d8-8cf1-41a3-9e31-fe4e90b2399c.mp4?dl=0   ====\n\n\nhttps://www.dropbox.com/s/kfwqlc5sg8m5ngs/90816d57-9d63-4ba4-b7f4-fe1c893e226a.mp4?dl=0   ===\n\nhttps://www.dropbox.com/s/j44b20ikku9w9dq/2014-11-10_23-08-08_514..mp4?dl=0  ===\n\nhttps://www.dropbox.com/sh/rrze7rgf35tv03k/AAARCf1PdDj7ogQfJo4wt0mfa?dl=0  ===\n\nhttps://www.dropbox.com/sh/wkovngdjqy8sdl8/AACPo5JaiuRjCc7G58Tu_TeLa?dl=0  ===\n\nhttps://www.dropbox.com/sh/g8hrf3yycuqc6uj/AAA4ueyjeLFW6KeWAYFdi0IYa?dl=0  ===\n\nhttps://www.dropbox.com/sh/zhtzbzz4iznky5a/AABDlSVicDgytASOolXVK31Fa?dl=0  ===\n",
+			"file": "/Y/Users/Danny/Downloads/dropbox.txt",
+			"file_size": 2012,
+			"file_write_time": 131052451757517443,
 			"settings":
 			{
-				"buffer_size": 1158,
-				"line_ending": "Windows"
+				"buffer_size": 1048,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -120,26 +83,47 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Danny/Desktop/jobs.txt",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/keybase.txt",
+		"/C/Users/Danny/Desktop/1E6BF1B82B9E08C1D354D0114F30148F39312184.asc",
+		"/Y/Users/Danny/Downloads/encrypted(1).asc",
+		"/Y/Users/Danny/Downloads/encrypted.asc",
+		"/Y/Users/Danny/Downloads/encrypted.txt",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/CNAME",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/CNAME",
+		"/Y/Users/Danny/Downloads/dannytaylorpub.asc",
+		"/Y/Users/Danny/Downloads/Danny_Taylor_pub.asc",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/index.html",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/Danny_Taylor_pub.asc",
+		"/Y/Program Files (x86)/Steam/steamapps/common/Let's Explore The Jungle with Buzzy/ScummVM_Windows/docs/AUTHORS.txt",
+		"/C/Users/Danny/revoke.asc",
+		"/Y/Users/Danny/Downloads/mayyay.asc",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/README.md",
+		"/C/Program Files (x86)/GNU/GnuPG/share/gpg4win/README.en.txt",
+		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/css/style.css",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/fiddler template.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style.css",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/404.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/fiddlers.html",
+		"/Y/Users/Danny/Downloads/keyserver2.pgp.comGlobalDirectoryKey.asc",
+		"/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/File download from  www.TechTools.NET.txt",
+		"/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/_ReadMe.txt",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/links.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/index.html",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/lbynop4i.cg2.txt",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/README.md",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test.js",
-		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style.css",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/footer.css",
 		"/C/Users/Danny/Desktop/html template.html",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/stylesheet.css",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/stylesheet",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style",
-		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/fiddlers.html",
 		"/Y/Users/Danny/Downloads/meet-the-team/css/style.css",
 		"/Y/Users/Danny/Downloads/meet-the-team/index.html",
-		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/links.html",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/jumbotron-narrow.css",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/test.html",
 		"/C/Users/Danny/Desktop/bootstrap-3.3.6-dist/index.html",
-		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/css/style.css",
-		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/index.html",
-		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/CNAME",
 		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/zh14b4ci.q4x.txt",
 		"/C/Users/Danny/Desktop/q 4 jen.txt",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/votetom.js",
@@ -226,28 +210,7 @@
 		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/Torrent downloaded from Hollytorrents.com.txt",
 		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/Torrent downloaded from AhaShare.com.txt",
 		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/1/Torrent downloaded from AhaShare.com.txt",
-		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/1/[ALL CRACKS]/Cracked amlib/How to use.txt",
-		"/C/Users/Danny/Desktop/hosts",
-		"/C/Users/Danny/Desktop/p.txt",
-		"/C/Users/Danny/Documents/5.txt",
-		"/Y/Users/Danny/Downloads/Microsoft Windows 10 Home and Pro x64 Clean ISO/Support Us.txt",
-		"/Y/Users/Danny/Downloads/Microsoft Windows 10 Home and Pro x64 Clean ISO/ReadMe.txt",
-		"/Y/Users/Danny/Downloads/Adobe Photoshop Lightroom CC 2015 6.1 + Crack/ReadMe.txt",
-		"/C/Users/Danny/AppData/Local/Temp/Temp1_20bb31-PoliceMod 1.0c Rev6 New.zip/readme.txt",
-		"//DANNYTALORSIMAC/Danny/Downloads/quote/read me.txt",
-		"/C/Users/Danny/Desktop/bigxsbys weird 5shitM01.xml",
-		"/C/Users/Danny/Desktop/1",
-		"/Y/Users/Danny/Downloads/wineglas.vt",
-		"/Y/Users/Danny/Downloads/12budord.txt",
-		"/Y/Users/Danny/Downloads/13.asc",
-		"/Y/Users/Danny/Downloads/eagle.art",
-		"/C/Users/Danny/Desktop/bigxsbys weird shit.mxfM01.xml",
-		"/Y/Users/Danny/Downloads/NOOBS_v1_4_1/INSTRUCTIONS-README.txt",
-		"/C/Users/Danny/Documents/GitHub/mambo/settings.json.sample",
-		"/C/Program Files/TeamSpeak 3 Client/plugins/lua_plugin/masscontrol.lua",
-		"/Y/Users/Danny/Downloads/jessie.art",
-		"/C/Users/Danny/Documents/GitHub/GitTest/README.md",
-		"/C/Users/Danny/Documents/GitHub/GitTest/index.html"
+		"/Y/Users/Danny/Downloads/Adobe Creative Cloud Collection (2014) FULL + Crack - Exclusive/1/[ALL CRACKS]/Cracked amlib/How to use.txt"
 	],
 	"find":
 	{
@@ -309,30 +272,54 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/Y/Users/Danny/Downloads/key0xD72B85D98D316ACE.asc",
 					"settings":
 					{
-						"buffer_size": 2464,
+						"buffer_size": 6253,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								895,
-								895
+								0,
+								6253
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 845.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Danny/Desktop/1E6BF1B82B9E08C1D354D0114F30148F39312184.asc",
+					"settings":
+					{
+						"buffer_size": 3872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -341,39 +328,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "links.html",
-					"settings":
-					{
-						"buffer_size": 2318,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								665,
-								665
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 105.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 2,
-					"file": "/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/_ReadMe.txt",
+					"file": "/C/Users/Danny/Desktop/jobs.txt",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 3632,
 						"regions":
 						{
 						},
@@ -396,10 +355,10 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/File download from  www.TechTools.NET.txt",
+					"file": "/C/Users/Danny/Documents/5.txt",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 347,
 						"regions":
 						{
 						},
@@ -422,161 +381,23 @@
 				},
 				{
 					"buffer": 4,
-					"file": "/Y/Users/Danny/Downloads/keyserver2.pgp.comGlobalDirectoryKey.asc",
+					"file": "/Y/Users/Danny/Downloads/dropbox.txt",
 					"settings":
 					{
-						"buffer_size": 7440,
+						"buffer_size": 1048,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1048,
+								1048
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1597.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Y/Users/Danny/Downloads/Danny_Taylor_pub.asc",
-					"settings":
-					{
-						"buffer_size": 3141,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3139,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "fiddlers.html",
-					"settings":
-					{
-						"buffer_size": 14229,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								13269,
-								13269
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2513.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "404.html",
-					"settings":
-					{
-						"buffer_size": 1589,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								996,
-								996
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "css/style.css",
-					"settings":
-					{
-						"buffer_size": 5261,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5261,
-								5261
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2355.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "fiddler template.html",
-					"settings":
-					{
-						"buffer_size": 1158,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1158,
-								1158
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
