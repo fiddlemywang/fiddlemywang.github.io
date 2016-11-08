@@ -67,7 +67,7 @@
 			"file": "fiddlers.html",
 			"settings":
 			{
-				"buffer_size": 15555,
+				"buffer_size": 15556,
 				"line_ending": "Windows"
 			}
 		}
@@ -302,15 +302,15 @@
 					"file": "fiddlers.html",
 					"settings":
 					{
-						"buffer_size": 15555,
+						"buffer_size": 15556,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14137,
-								14137
+								14391,
+								14391
 							]
 						],
 						"settings":
@@ -320,7 +320,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2740.0,
+						"translation.y": 2974.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
