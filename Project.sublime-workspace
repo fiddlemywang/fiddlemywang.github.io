@@ -64,10 +64,10 @@
 	"buffers":
 	[
 		{
-			"file": "fiddlers.html",
+			"file": "logo.html",
 			"settings":
 			{
-				"buffer_size": 15556,
+				"buffer_size": 1020,
 				"line_ending": "Windows"
 			}
 		}
@@ -97,7 +97,18 @@
 	"file_history":
 	[
 		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/index.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/fiddlers.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style.css",
+		"/C/Users/Danny/www.poringa.net/robots.txt",
 		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/css/style.css",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/404.html",
+		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/index.html",
+		"/C/Users/Danny/Desktop/service_timeline.htm",
+		"/Y/Users/Danny/Downloads/fmw.txt",
+		"/Y/Users/Danny/Downloads/Nether3x3Bedrock.txt",
+		"/C/Users/Danny/Desktop/livvymorris.txt",
+		"/C/sav2e/www.cs.utah.edu/robots.txt",
+		"/C/Users/Danny/Desktop/database.sql",
 		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/Danny_Taylor_pub.asc",
 		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/css/bootstrap-theme.min.css.map",
 		"/Y/Users/Danny/Downloads/video-background2/video-background-2.html",
@@ -120,7 +131,6 @@
 		"/C/Program Files/TeamSpeak 3 Client/plugins/clientquery_plugin/clientkick.txt",
 		"/C/Users/Danny/Desktop/1E6BF1B82B9E08C1D354D0114F30148F39312184.asc",
 		"/C/Users/Danny/Desktop/tskey.txt",
-		"/C/Users/Danny/Desktop/livvymorris.txt",
 		"/C/Users/Danny/AppData/Local/Temp/1005.tmp.txt",
 		"/C/Users/Danny/Desktop/livvymorris14@hotmail.co.uk",
 		"/C/Users/Danny/Desktop/jobs.txt",
@@ -181,14 +191,10 @@
 		"/C/Users/Danny/Documents/GitHub/bzyg7b.github.io/README.md",
 		"/C/Program Files (x86)/GNU/GnuPG/share/gpg4win/README.en.txt",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/fiddler template.html",
-		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/css/style.css",
-		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/404.html",
-		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/fiddlers.html",
 		"/Y/Users/Danny/Downloads/keyserver2.pgp.comGlobalDirectoryKey.asc",
 		"/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/File download from  www.TechTools.NET.txt",
 		"/Y/Users/Danny/Downloads/Microsoft Windows 10 PRO FULL(x64-x86) Sep 2015 [TechTools.NET]/_ReadMe.txt",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/links.html",
-		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/index.html",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/lbynop4i.cg2.txt",
 		"/C/Users/Danny/Documents/GitHub/fiddlemywang.github.io/README.md",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test2.js",
@@ -217,13 +223,7 @@
 		"/C/Users/Danny/Documents/GitHub/dobby/config.js",
 		"/C/Users/Danny/Documents/GitHub/dobby/plugins/test2",
 		"/C/Users/Danny/Documents/GitHub/dobby/bot.js",
-		"/C/Users/Danny/Documents/GitHub/dobby/npm-debug.log",
-		"/C/Users/Danny/Documents/GitHub/dobby/plugins/ud.js",
-		"/C/Users/Danny/Documents/GitHub/dobby/plugins/syncplay.js",
-		"/C/Users/Danny/Documents/GitHub/dobby/plugins/admin.js",
-		"/C/Users/Danny/Documents/GitHub/dobby/plugins/bagpuss.js",
-		"/Y/Program Files (x86)/Steam/steamapps/common/Unturned/Servers/My server/Server/Adminlist.dat",
-		"/Y/Program Files (x86)/Steam/steamapps/common/Unturned/Servers/My server/Server/Blacklist.dat"
+		"/C/Users/Danny/Documents/GitHub/dobby/npm-debug.log"
 	],
 	"find":
 	{
@@ -241,6 +241,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"-1493",
+			"1900",
+			"-1493",
+			"-1450",
+			"-1493,",
 			"adv",
 			"ent3PqzpCJ9kdMNXmlKX6/HTxY4=",
 			"rBtZYe8m5/C6i0/atI2dePHfLrw=",
@@ -299,18 +304,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "fiddlers.html",
+					"file": "logo.html",
 					"settings":
 					{
-						"buffer_size": 15556,
+						"buffer_size": 1020,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14391,
-								14391
+								1020,
+								1020
 							]
 						],
 						"settings":
@@ -320,7 +325,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2974.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
